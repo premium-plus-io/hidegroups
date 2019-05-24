@@ -1,0 +1,14 @@
+{
+  "app": {
+    "name": "Hide Groups",
+    "short_description": "Hide groups from the ticket interface.",
+    "long_description": "Hide groups from the ticket interface.",
+    "installation_instructions": "Enter the ID's of the groups you wish to hide in the field. Separate each group ID with a comma without spaces. e.g. 12345678,98765442",
+	 "parameters": {
+		  "groups_to_hide": {
+			"label": "Specify specific groups to hide",
+			"helpText": "Add these groups as comma seperated IDs"
+		  }
+		}
+  }
+}
