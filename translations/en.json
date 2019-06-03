@@ -1,8 +1,8 @@
 {
   "app": {
-    "name": "Hide Groups",
+    "name": "Delegate Plus - Hide Groups",
     "short_description": "Hide groups from the ticket interface.",
-    "long_description": "Hide groups from the ticket interface.",
+    "long_description": "Hide groups from the ticket interface so your agents can't assign tickets to these restricted groups",
     "installation_instructions": "Enter the ID's of the groups you wish to hide in the field. Separate each group ID with a comma without spaces. e.g. 12345678,98765442",
 	 "parameters": {
 		  "groups_to_hide": {

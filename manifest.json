@@ -12,7 +12,7 @@
       "ticket_sidebar": "assets/iframe.html"
     }
   },
-  "version": "1.0.1",
+  "version": "1.0.3",
   "frameworkVersion": "2.0",
   "termsConditionsURL": "https://premiumplus.io/termsandconditions",
   "parameters": [

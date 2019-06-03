@@ -1,14 +1,9 @@
-# App name
+# Delegate Plus - Hide Ticket Groups	
 
-[brief description of the app]
-
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+This apps hides ticket groups from the groups dropdown. This way agent's can't assign tickets to these groups.
 
 ### Screenshot(s):
-[put your screenshots down here.]
+!()[screenshot-0.png]
+!()[screenshot-1.png]
+!()[screenshot-2.png]
+!()[screenshot-3.png]
