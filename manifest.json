@@ -1,9 +1,9 @@
 {
-  "name": "Hide Groups",
+  "name": "Hide Groups Plus",
   "author": {
-    "name": "Thomas Verschoren",
-    "email": "thmasverschoren@premiumplus.io",
-    "url": "https://premiumplus.io/hidegroups"
+		"name": "Premium Plus - Thomas Verschoren",
+		"email": "support@premiumplus.io",
+		"url": "https://premiumplus.io"
   },
   "defaultLocale": "en",
   "private": false,
